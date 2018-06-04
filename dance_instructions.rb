@@ -32,16 +32,6 @@ def bust_a_move
   puts "Be cool"
   puts "Be snazzy!"
 end
-bob_the_reins
-bob_the_reins
-bob_the_reins
-bob_the_reins
-skip_step
-bob_the_reins
-bob_the_reins
-bob_the_reins
-bob_the_reins
-skip_step
 
 assume_the_proper_stance
 bust_a_move
