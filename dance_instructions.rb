@@ -46,3 +46,8 @@ skip_step
 assume_the_proper_stance
 bust_a_move
 base_footwork
+bob_the_reins
+bob_the_reins
+bob_the_reins
+bob_the_reins
+skip_step
