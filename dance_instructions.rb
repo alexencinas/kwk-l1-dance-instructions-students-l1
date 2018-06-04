@@ -1,6 +1,6 @@
 
 # Code your methods below
-def assume_the_proper_stance
+def starting_stance
   puts "Plant legs far apart, bend knees slightly and keep posture loose."
 end
 def base_footwork
@@ -33,7 +33,7 @@ def bust_a_move
   puts "Be snazzy!"
 end
 
-assume_the_proper_stance
+starting_stance
 bust_a_move
 base_footwork
 bob_the_reins
